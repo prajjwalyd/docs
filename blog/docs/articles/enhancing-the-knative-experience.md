@@ -9,7 +9,7 @@ The participants in this research were the contributors and maintainers of the K
 
 Last year, I began contributing to open source and after making some contributions here and there, I decided to focus on CNCF projects due to their reputation for supportive communities and excellent learning opportunities in cloud-native technologies.
 
-While exploring the [CNCF landscape](https://landscape.cncf.io/), I came across the [LFX Mentorship](https://mentorship.lfx.dev/) program. Among the available opportunities, the [Knative: Contributor Journey Research](https://mentorship.lfx.linuxfoundation.org/project/54afaf17-4dc9-4783-9641-a95b5a33af9e) project intrigued me. With some background in full-stack development, community management, and UI/UX, along with the obvious firsthand experience as an 'early-phase' open-source contributor, I felt I had valuable insights into the common challenges contributors face.
+While exploring the [CNCF landscape](https://landscape.cncf.io/), I came across the [LFX Mentorship](https://mentorship.lfx.dev/) program. Among the available opportunities, the [Knative: Contributor Journey Research](https://mentorship.lfx.linuxfoundation.org/project/54afaf17-4dc9-4783-9641-a95b5a33af9e) project intrigued me. With some background in full-stack development, community management, and UI/UX, along with the obvious firsthand experience as an 'early-phase' open-source contributor, I felt I had some valuable insights into the common challenges contributors face.
 
 The project required drafting a detailed proposal outlining my implementation plan. I focused on making my proposal as comprehensive as possible ([docs link](https://docs.google.com/document/d/10TIymJQ9GpYYRdy3yp9oRMVOSHJ2nkDKqdu_azz8oZg/edit)). With high hopes, I submitted my application, and after the results were announced, I was thrilled to be selected for this exciting opportunity!
 
@@ -26,7 +26,7 @@ For more details about the project, please refer to the [LFX Mentorship Page](ht
 After receiving the selection email, I had an initial meeting with my mentors to discuss the project's direction. We decided on a weekly mentoring schedule, with occasional analysis sessions as needed. The early weeks were spent planning the research process and defining goals, objectives, key questions, and hypotheses.
 
 To kick off the research phase, I sifted through contributor data spanning from January 1, 2023, to February 29, 2024, to pinpoint potential interview candidates. By the end of the third week, I started outlining some interview and survey questions.
-During the next phase, we conducted around twelve interviews with different types of contributors, including new ones, active ones, some who used to contribute but stopped (inactive), and maintainers. It was tough to get interviews with inactive contributors because many weren't using CNCF Slack anymore. However, during the latter half of the project, we did manage to interview three of them, which gave us good insights.
+During the next phase, we conducted around twelve interviews with different types of contributors, including new ones, active ones, some who used to contribute but stopped (inactive), and maintainers. It was tough to get interviews with inactive contributors because many weren't using CNCF Slack anymore. However, during the latter half of the project, we did manage to interview three of them, which gave us some really good insights.
 Following the interviews and initial analysis, I created a developer survey aimed at understanding the wider community's motivations, engagement, challenges, and potential improvements so that we can prioritize our recommendations based on the responses. Unfortunately, this survey yielded only four responses, making it statistically insignificant.
 
 Upon concluding the interview analysis, I distilled the key findings and preliminary recommendations and presented them to the UX Working Group on May 16, 2024. Subsequently, after receiving feedback during the presentation and on the pull request, I iterated on my findings and recommendations for refinement.
@@ -36,7 +36,7 @@ Any feedback or suggestions on the final report would be greatly appreciated!
 
 ## Insights and Future Trajectories
 
-This project and mentorship opportunity taught me a lot about open-source, collaboration, community engagement & dynamics, and the developer experience. It significantly boosted my confidence and communication skills, as extensive community interaction was a major component.
+This project and mentorship opportunity taught me a lot about open-source, collaboration, community engagement & dynamics, and importance of prioritizing developer experience. It significantly boosted my confidence and communication skills, as extensive community interaction was a major component.
 I am deeply grateful to my mentors for their unwavering support throughout this journey, and I thoroughly enjoyed working on this project.
 
 Moving forward, the next steps involve implementing and evaluating the actionable recommendations. This iterative process will likely involve trial and error to find the most effective solutions.
